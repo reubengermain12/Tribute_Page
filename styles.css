@@ -42,3 +42,9 @@ a:visited {
   border-radius: 5px;
   background: linear-gradient(red, gold, green);
 }
+
+@media (max-width: 460px) {
+  #main {
+    margin: 0;
+  }
+}
