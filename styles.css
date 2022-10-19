@@ -23,3 +23,14 @@ h1 {
     line-height: 1.2;
   }
 }
+
+h2 {
+  font-size: 3.25rem;
+}
+
+a {
+  color: #477ca7;
+}
+a:visited {
+  color: #74638f;
+}
