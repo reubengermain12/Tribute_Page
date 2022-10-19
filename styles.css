@@ -11,3 +11,15 @@ body {
   color: #333;
   margin: 0;
 }
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+
+@media (max-width) {
+  h1 {
+    font-size: 3.5rem;
+    line-height: 1.2;
+  }
+}
